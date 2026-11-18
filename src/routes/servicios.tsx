@@ -6,7 +6,7 @@ export const Route = createFileRoute("/servicios")({
   head: () => ({
     meta: [
       { title: "Servicios · vibefix.dev" },
-      { name: "description", content: "Auditoría express, arreglo responsivo, de IA a producción, backend y mantenimiento mensual." },
+      { name: "description", content: "Auditoría express, arreglo responsivo, desarrollo desde cero, de IA a producción, backend y mantenimiento mensual." },
       { property: "og:title", content: "Servicios · vibefix.dev" },
       { property: "og:description", content: "Revisión de código, corrección de errores y desarrollo para sitios hechos con IA." },
       { property: "og:type", content: "website" },

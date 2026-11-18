@@ -46,8 +46,17 @@ export const services: Service[] = [
     deliverable: "Aplicación web completa y funcionando.",
   },
   {
-    id: "mantenimiento",
+    id: "creacion-desde-cero",
     tag: "05",
+    name: "Creación desde cero",
+    category: "Diseño y desarrollo web",
+    summary: "Creo tu sitio web desde la idea, con una estructura y diseño hechos para las necesidades de tu negocio.",
+    includes: ["Definición de estructura y contenido", "Diseño adaptable a celular y computador", "Desarrollo de páginas y formularios", "Preparación para publicar"],
+    deliverable: "Sitio web nuevo y funcional, listo para presentar tu negocio.",
+  },
+  {
+    id: "mantenimiento",
+    tag: "06",
     name: "Mantenimiento mensual",
     category: "Soporte técnico",
     summary: "Me encargo de que tu sitio siga funcionando: cambios, actualizaciones y respuesta rápida ante fallas.",
